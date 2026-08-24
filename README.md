@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
