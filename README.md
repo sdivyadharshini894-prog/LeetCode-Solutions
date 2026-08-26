@@ -90,6 +90,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [1124-longest-well-performing-interval](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1124-longest-well-performing-interval) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
