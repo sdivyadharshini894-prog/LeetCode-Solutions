@@ -47,11 +47,13 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Math
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 ## Brainteaser
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
