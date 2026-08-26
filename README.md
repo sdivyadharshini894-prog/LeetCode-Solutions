@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0152-maximum-product-subarray](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
@@ -41,10 +42,12 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 ## Bit Manipulation
 |  |
