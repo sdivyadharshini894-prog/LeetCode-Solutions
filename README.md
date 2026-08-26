@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
