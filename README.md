@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -11,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
@@ -31,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 ## Matrix
 |  |
