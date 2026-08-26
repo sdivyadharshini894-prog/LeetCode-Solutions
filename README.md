@@ -51,5 +51,26 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0728-self-dividing-numbers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
