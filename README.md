@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+## Math
+|  |
+| ------- |
+| [0728-self-dividing-numbers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
