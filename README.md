@@ -14,6 +14,7 @@
 | [1124-longest-well-performing-interval](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1572-matrix-diagonal-sum](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
