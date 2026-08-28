@@ -61,6 +61,7 @@
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0812-largest-triangle-area](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
