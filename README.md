@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Longest Increasing Subsequence
 |  |
@@ -184,4 +185,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
