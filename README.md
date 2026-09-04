@@ -10,6 +10,7 @@
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1124-longest-well-performing-interval](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -56,12 +58,14 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Math
@@ -165,4 +169,8 @@
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
