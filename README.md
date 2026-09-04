@@ -149,4 +149,20 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+## Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
