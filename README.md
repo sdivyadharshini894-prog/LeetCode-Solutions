@@ -70,6 +70,7 @@
 | [0062-unique-paths](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
