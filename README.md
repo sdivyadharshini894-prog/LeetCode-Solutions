@@ -170,10 +170,12 @@
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -182,6 +184,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Two Pointers
 |  |
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
