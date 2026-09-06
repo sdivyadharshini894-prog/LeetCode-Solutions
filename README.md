@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
