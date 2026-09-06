@@ -199,4 +199,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
