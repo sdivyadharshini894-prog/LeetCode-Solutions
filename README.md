@@ -86,6 +86,7 @@
 | [0292-nim-game](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0728-self-dividing-numbers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0552-student-attendance-record-ii](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0552-student-attendance-record-ii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 ## Binary Search
