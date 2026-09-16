@@ -62,6 +62,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0394-decode-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0482-license-key-formatting](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
