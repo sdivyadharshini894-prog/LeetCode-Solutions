@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0495-teemo-attacking](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
