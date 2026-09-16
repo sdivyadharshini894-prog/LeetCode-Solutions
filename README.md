@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0506-relative-ranks](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0605-can-place-flowers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -240,6 +241,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Sliding Window
 |  |
