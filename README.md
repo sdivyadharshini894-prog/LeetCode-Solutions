@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0394-decode-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -162,6 +164,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1124-longest-well-performing-interval](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1124-longest-well-performing-interval) |
 ## Monotonic Stack
 |  |
