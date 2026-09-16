@@ -225,6 +225,7 @@
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0610-triangle-judgement](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0610-triangle-judgement) |
 ## DP on Trees
 |  |
