@@ -15,6 +15,7 @@
 | [0506-relative-ranks](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0766-toeplitz-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
