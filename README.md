@@ -64,6 +64,7 @@
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0844-backspace-string-compare](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 ## Matrix
 |  |
@@ -79,6 +80,7 @@
 | [0054-spiral-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1124-longest-well-performing-interval](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1124-longest-well-performing-interval) |
 ## Monotonic Stack
 |  |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Ternary Search
 |  |
 | ------- |
