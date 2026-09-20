@@ -16,6 +16,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
@@ -49,6 +51,7 @@
 | [0506-relative-ranks](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0645-set-mismatch](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -103,6 +106,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
