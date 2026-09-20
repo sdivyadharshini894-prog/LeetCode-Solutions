@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0766-toeplitz-matrix](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -34,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0804-unique-morse-code-words](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -45,12 +47,14 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -259,6 +263,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
 |  |
