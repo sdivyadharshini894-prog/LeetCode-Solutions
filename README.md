@@ -26,6 +26,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1122-relative-sort-array](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1122-relative-sort-array) |
 | [1124-longest-well-performing-interval](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/1124-longest-well-performing-interval) |
