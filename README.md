@@ -218,6 +218,7 @@
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sdivyadharshini894-prog/LeetCode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
